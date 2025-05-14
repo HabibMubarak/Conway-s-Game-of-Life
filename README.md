@@ -19,7 +19,7 @@ Dieses Projekt implementiert das **Game of Life**, ein zellulärer Automat, in C
 1. Klone dieses Repository:
 
     ```bash
-    git clone [https://github.com/dein-benutzername/game-of-life.gi](https://github.com/HabibMubarak/Conway-s-Game-of-Life.git)t
+    git clone https://github.com/HabibMubarak/Conway-s-Game-of-Life.git
     ```
 
 2. Kompiliere den Code:
